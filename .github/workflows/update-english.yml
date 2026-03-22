@@ -1,0 +1,43 @@
+name: Update English-only Movies M3U
+
+on:
+  schedule:
+    - cron: '0 4 * * *'    # Every day at 4:00 UTC (~9 PM PDT previous day)
+  workflow_dispatch:       # Allows manual trigger from GitHub UI
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Required to commit & push back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run filter script
+        run: python filter_english.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add english_movies.m3u
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update english_movies.m3u [auto]"
+            git push
+          fi
