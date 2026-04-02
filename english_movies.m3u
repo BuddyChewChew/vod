@@ -19,8 +19,6 @@ https://onedrive.live.com/download?cid=D6B39FE8922913A7&resid=D6B39FE8922913A7%2
 https://lh3.googleusercontent.com/o_4Sm-emU3TL88Te17HrhqQI9KhB5oVSmiikk0VlyLX8yN7jXpv3rRQFDfUdwTZRMJs-XoIrOq4ph1e-zA=m22
 #EXTINF:-1 group-title="THAI MOVIES noname 21",All.That.Breathes.2022
 http://149.56.18.18/921001-922000/921709.mp4
-#EXTINF:-1 group-title="VIETNAM_MOVIES1" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/15/00/dce03f2c/dce03f2c-d568-4da4-ae6c-ba7361496264_640_360.png",All's Well End's Well extended - Nhà Có Tin Vui
-http://vod-zlr2.tv360.vn/video1/2021/09/15/00/6d691430/6d691430-119b-4d45-883a-fb24005a7c7e_5_.m3u8
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic614d4ed2b52a3607199372.png",Apocalypto (2006)
 https://dl.dropboxusercontent.com/s/l7r0hka6fsy5t0p/Afokaleyp2.2006.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/RHsqHcG/01.png",Army of the Dead (2021)
@@ -51,6 +49,8 @@ http://149.56.18.18/921001-922000/921920.mp4
 https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/al_jazeera_channel_qa.png",chaplin MakingALiving
 https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALiving_512kb.mp4
+#EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/sport-1-czechia-cz.png",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/filamchi-bhojpuri-in.png",Children of Men (2006)
 https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://127.0.0.1/",CHUKY EL MUNHECO DIABOLICO (TERROR)
@@ -67,8 +67,6 @@ https://lh3.googleusercontent.com/mDDsCx9kPHbnIPE4qGRdizKe-BaGe5R1GSJbA4abmKbrac
 http://149.56.18.18/921001-922000/921806.mp4
 #EXTINF:-1 group-title="*TÜRK_FILMLER" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985376933ccb2d9c23b034.jpg",Downer's Grove Laneti
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8
-#EXTINF:-1 group-title="THAI MOVIES",Dragon Ball Super - Super Hero (2022
-http://149.56.18.18/922001-923000/922285.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/d21X5kd.png",Dragon The Weapon of God (2022)
 https://onedrive.live.com/download?cid=27FF23728FFCB6DA&resid=27FF23728FFCB6DA%21107&authkey=AJ2hmjhn3mwh3-o
 #EXTINF:-1 group-title="THAI MOVIES",Dragon.Ball.The.Magic.Begins.1991
@@ -113,6 +111,8 @@ https://dl.dropboxusercontent.com/s/efsxnkw0rn9qfjx/Multong.Barko.2003.mkv?dl=0
 http://149.56.18.18/922001-923000/922252.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Guardians.Of.The.Galaxy.Volume.3.2023
 http://149.56.18.18/921001-922000/921784.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/hiOTPAv.png",Halloween Kills (2021)
+https://dl.dropboxusercontent.com/s/ozayd5n8yzjcedi/Halloween.Kills.2021.720p.Pcok.Web-Dl.x265-Tinymkv.xyz.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/Lt1TwXB.png",Harry Potter 20th Anniversary: Return to Hogwarts (2022)
 https://onedrive.live.com/download?cid=8C36F5E7D499AF3D&resid=8C36F5E7D499AF3D%21108&authkey=AOwcobYeAthY_14
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/HGTV Home & Garden.png",Home (2015)
