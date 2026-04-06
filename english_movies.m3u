@@ -51,8 +51,6 @@ http://149.56.18.18/921001-922000/921920.mp4
 https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/al_jazeera_channel_qa.png",chaplin MakingALiving
 https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALiving_512kb.mp4
-#EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/sport-1-czechia-cz.png",Chiaroscuro Baby (2009)
-https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/filamchi-bhojpuri-in.png",Children of Men (2006)
 https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://127.0.0.1/",CHUKY EL MUNHECO DIABOLICO (TERROR)
@@ -73,8 +71,6 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8
 https://onedrive.live.com/download?cid=27FF23728FFCB6DA&resid=27FF23728FFCB6DA%21107&authkey=AJ2hmjhn3mwh3-o
 #EXTINF:-1 group-title="THAI MOVIES",Dragon.Ball.The.Magic.Begins.1991
 http://149.56.18.18/922001-923000/922371.mp4
-#EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/star-gold-select-hd-in.png",Elephants Dream (2006)
-https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Elizabeth.1998
 http://149.56.18.18/922001-923000/922555.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Elizabeth.The.Golden.Age.2007
@@ -91,8 +87,6 @@ http://149.56.18.18/922001-923000/922095.mp4
 https://vidrame.pro/vr/get/7c802b5c/720.m3u8
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/QYTR7N6/01.png",Fatherhood (2021)
 https://dl.dropboxusercontent.com/s/3wqwpmf6t4ov3u3/Pagiging.Tatay.2021.mkv?dl=0
-#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/HtALCp6.png",Finch (2021)
-https://dl.dropboxusercontent.com/s/duffn4bagmden7y/Finch.1080p.Atvp.Web-Dl.Ddp5.1.Atmos.H.265.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/gV6mCvt.jpg",Fireheart (2022)
 https://onedrive.live.com/download?cid=500D11AD4028C3EF&resid=500D11AD4028C3EF%21107&authkey=AAaGqliik1kboVY
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/35jqZPv.jpg",Fistful of Vengeance (2022)
@@ -229,12 +223,12 @@ https://dl.dropboxusercontent.com/s/jomwpr1jtab5hrq/Spays.Dyam.2021.mkv?dl=0
 https://onedrive.live.com/download?cid=500D11AD4028C3EF&resid=500D11AD4028C3EF%21105&authkey=AKD1Njy0IlVjUTs
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/YZU3ILu.png",Spider Man - No Way Home (2021)
 https://onedrive.live.com/download?cid=DAE1E1EE370B036E&resid=DAE1E1EE370B036E%21105&authkey=AFttEG_ctCXtwJE
-#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/4VCYVF8/02.png",Spirit Untamed (2021)
-https://dl.dropboxusercontent.com/s/rwjdfb8kh0tsnet/Wala.Puro.ang%20Espiritu.mp4?dl=0
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/pink_rs_crime_mystery.png",Steal This Film (2006)
 https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/pink_rs_crime_mystery.png",Steal This Film 2 (2007)
 https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://add.pics/images/2021/08/19/01af46920eef665973.png",Stillwater (2021)
+https://dl.dropboxusercontent.com/s/hrzjldp2lw1530t/video-00002.mkv?dl=0
 #EXTINF:-1 group-title="THAI MOVIES noname 21",Superwho.2021
 http://149.56.18.18/921001-922000/921801.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic61652def2d1af1206688598.png",Survive the Game (2021)
