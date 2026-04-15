@@ -43,12 +43,12 @@ http://149.56.18.18/921001-922000/921710.mp4
 https://dl.dropboxusercontent.com/s/hlcz5d2srmloh6d/Blood.RED.SKY.2021.720P.NF.WEB-DL.X265-TINYMKV.XYZ.MKV?dl=0
 #EXTINF:-1 group-title="Latino_MOVIES" tvg-logo="http://image.tmdb.org/t/p/w500/kgpSvuwiD03vk1gOQ4Pgb2y2wJp.jpg",Blush AppleTV 2021
 https://archive.org/download/01_20211011_20211011_2327/01.mp4
-#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/hhud494.png",Bruised (2021)
-https://dl.dropboxusercontent.com/s/qgcp5woqo90u2mn/Bruised.2021.720p.Web-Dl.x265.mkv?dl=0
 #EXTINF:-1 group-title="THAI MOVIES noname 21",Bungou.Stray.Dogs.Dead.Apple.2018
 http://149.56.18.18/921001-922000/921918.mp4
 #EXTINF:-1 group-title="THAI MOVIES noname 21",Bungou.Stray.Dogs.Dead.Apple.2018
 http://149.56.18.18/921001-922000/921920.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/BBdRhpS/01.png",Chaos Walking (2021)
+https://dl.dropboxusercontent.com/s/nhq1o9ty60hribq/Lakad.Chaos.2021.mkv?dl=0
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/france-3-champagne-ardenne-fr.png",chaplin  KidsAutoRaceAtVenice
 https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4
 #EXTINF:-1 group-title="Spain VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/al_jazeera_channel_qa.png",chaplin MakingALiving
@@ -75,6 +75,8 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8
 https://onedrive.live.com/download?cid=27FF23728FFCB6DA&resid=27FF23728FFCB6DA%21107&authkey=AJ2hmjhn3mwh3-o
 #EXTINF:-1 group-title="THAI MOVIES",Dragon.Ball.The.Magic.Begins.1991
 http://149.56.18.18/922001-923000/922371.mp4
+#EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/star-gold-select-hd-in.png",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Elizabeth.1998
 http://149.56.18.18/922001-923000/922555.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Elizabeth.The.Golden.Age.2007
@@ -233,6 +235,8 @@ https://dl.dropboxusercontent.com/s/rwjdfb8kh0tsnet/Wala.Puro.ang%20Espiritu.mp4
 https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/pink_rs_crime_mystery.png",Steal This Film 2 (2007)
 https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://add.pics/images/2021/08/19/01af46920eef665973.png",Stillwater (2021)
+https://dl.dropboxusercontent.com/s/hrzjldp2lw1530t/video-00002.mkv?dl=0
 #EXTINF:-1 group-title="THAI MOVIES noname 21",Superwho.2021
 http://149.56.18.18/921001-922000/921801.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic61652def2d1af1206688598.png",Survive the Game (2021)
@@ -387,5 +391,7 @@ https://onedrive.live.com/download?cid=DC6C08B33F708E39&resid=DC6C08B33F708E39%2
 https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/Qkxtztm/01.png",Wrath of Man (2021)
 https://dl.dropboxusercontent.com/s/strrcbj7dyaxljc/Man.Wrath.Of.2021%60.mkv?dl=0
+#EXTINF:-1 group-title="Spain VOD" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name |
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/die_neue_zeit_ch.png",Zeitgeist - The Movie (2007)
 https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
