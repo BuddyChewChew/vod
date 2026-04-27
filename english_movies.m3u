@@ -3,6 +3,8 @@
 http://149.56.18.18/922001-923000/922274.mp4
 #EXTINF:-1 group-title="RUS_movies3_cartoons",3)
 https://mults.info/mp4/nu_pogodi_tv.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/ZqeukHq.png",8 Bit Christmas (2021)
+https://dl.dropboxusercontent.com/s/hclnj90638sl9u0/8-Bit.Christmas.2021.720p.10bit.WEBRip.6CH.x265.HEVC.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic61714beccd8132029982570.png",300 (2006)
 https://dl.dropboxusercontent.com/s/gw7mlqigkjvav39/300%20%282006%29%20OPEN%20MATTE%20%281080p%20WEB-DL%20x265%20HEVC%2010bit%20AAC%205.1%20RN%29%20%5BUTR%5D.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic614f6e1ce3e411161062267.png",2012 (2009)
@@ -115,6 +117,8 @@ https://dl.dropboxusercontent.com/s/efsxnkw0rn9qfjx/Multong.Barko.2003.mkv?dl=0
 http://149.56.18.18/922001-923000/922252.mp4
 #EXTINF:-1 group-title="THAI MOVIES",Guardians.Of.The.Galaxy.Volume.3.2023
 http://149.56.18.18/921001-922000/921784.mp4
+#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/hiOTPAv.png",Halloween Kills (2021)
+https://dl.dropboxusercontent.com/s/ozayd5n8yzjcedi/Halloween.Kills.2021.720p.Pcok.Web-Dl.x265-Tinymkv.xyz.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/Lt1TwXB.png",Harry Potter 20th Anniversary: Return to Hogwarts (2022)
 https://onedrive.live.com/download?cid=8C36F5E7D499AF3D&resid=8C36F5E7D499AF3D%21108&authkey=AOwcobYeAthY_14
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/HGTV Home & Garden.png",Home (2015)
@@ -157,8 +161,6 @@ http://149.56.18.18/922001-923000/922487.mp4
 http://149.56.18.18/922001-923000/922256.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/yAJFoi8.jpg",Monster Family 2 (2021)
 https://dl.dropboxusercontent.com/s/ofxykse0yi405kd/Monster.Family.2.2021.1080p.WEBRip.DD5.1.X.264-EVO.mkv?dl=0
-#EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://www.linkpicture.com/q/LPic614d3b0748c7b987396445.png",Most Dangerous Game (2021)
-https://dl.dropboxusercontent.com/s/nf113b8asoj838j/Pinaka.Delikadong.Laro.2021.1080.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/4hIJFae.png",Mother Android (2021)
 https://dl.dropboxusercontent.com/s/ksy7d52304ordp0/Mother.Android.2021.1080p.WEB-DL.x264.DDP5.1-MSQ.mkv?dl=0
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.imgur.com/1I9Qfm5.png",Nightshade (2022)
@@ -387,5 +389,7 @@ https://onedrive.live.com/download?cid=DC6C08B33F708E39&resid=DC6C08B33F708E39%2
 https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
 #EXTINF:-1 group-title="US Movies (ENG SUBTITLE)" tvg-logo="https://i.ibb.co/Qkxtztm/01.png",Wrath of Man (2021)
 https://dl.dropboxusercontent.com/s/strrcbj7dyaxljc/Man.Wrath.Of.2021%60.mkv?dl=0
+#EXTINF:-1 group-title="Spain VOD" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name |
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 #EXTINF:-1 group-title="INDONESIEN VOD" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/die_neue_zeit_ch.png",Zeitgeist - The Movie (2007)
 https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
